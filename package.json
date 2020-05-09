@@ -1,0 +1,9 @@
+{
+  "name": "koech-scripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "new-component": "react.js"
+  }
+}
