@@ -1,9 +1,10 @@
 {
-  "name": "koech-scripts",
+  "name": "k3v-scripts",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "bin": {
-    "new-component": "react.js"
+    "new-component": "react.js",
+    "cra-package": "npm.js"
   }
 }
