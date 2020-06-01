@@ -4,6 +4,8 @@
     <list default="true" id="a5bf9a8c-c291-4ff1-9882-3ecebcd8463c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +58,7 @@
       <updated>1586631486838</updated>
       <workItem from="1586631488062" duration="11807000" />
       <workItem from="1590765408086" duration="7658000" />
-      <workItem from="1591011018657" duration="1388000" />
+      <workItem from="1591011018657" duration="3452000" />
     </task>
     <servers />
   </component>

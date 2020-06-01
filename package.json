@@ -1,10 +1,21 @@
 {
   "name": "k3v-scripts",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
   "bin": {
     "new-component": "react.js",
     "cra-package": "npm.js"
+  },
+  "dependencies": {},
+  "homepage": "https://github.com/koechkevin/koech-scripts#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koechkevin/koech-scripts"
+  },
+  "author": {
+    "name": "Kevin Koech",
+    "email": "koechkevin92@gmail.com",
+    "url": "https://github.com/koechkevin"
   }
 }
